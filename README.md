@@ -28,7 +28,8 @@ pip install -r requirements.txt
 在命令行中运行以下命令启动应用程序：
 
 ```bash
-python deepseek-dataset-pyqt.py
+python dataset_generator.py
+
 ```
 
 
