@@ -1,0 +1,9 @@
+pyqt6==6.5.0
+python-docx==0.8.16
+oletools==0.64.3
+requests==2.31.0
+xml.etree.ElementTree==3.8.1
+oletools
+docx
+requests
+PyQt6
