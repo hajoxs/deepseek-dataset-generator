@@ -8,8 +8,6 @@
 ## 系统要求
 
 - Windows 64 位
-- macOS 64 位
-- Linux 64 位
 
 ***Warning: 该程序需预先安装ollama，安装方法请参考相关资料***
 
